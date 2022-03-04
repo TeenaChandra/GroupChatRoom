@@ -1,0 +1,11 @@
+.signOutDiv{
+    width: 900px;
+}
+
+button{
+    width: 100px;
+    height: 50px;
+    font-size: 1em;
+    font-style: italic;
+    text-align: center;
+}
